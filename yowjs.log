@@ -1,0 +1,777 @@
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:20:12.811Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '521',\n  '1': '5215582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:20:12.815Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:20:12.815Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:20:12.815Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:20:12.816Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --yowsup --login 5215215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:20:12.816Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 64430","timestamp":"2018-05-12T23:20:12.821Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:20:13.049Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:20:42.398Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '521',\n  '1': '5215582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:20:46.446Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:20:46.447Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:20:46.447Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:20:46.447Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --yowsup --login 5215215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:20:46.447Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 64496","timestamp":"2018-05-12T23:20:46.453Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:20:46.509Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:21:12.515Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '521',\n  '1': '5215582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:21:12.528Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:21:12.528Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:21:12.528Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:21:12.528Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --yowsup --login 5215215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:21:12.528Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 64560","timestamp":"2018-05-12T23:21:12.536Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:21:12.596Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:22:31.791Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:22:31.804Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:22:31.804Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:22:31.804Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:22:31.804Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:22:31.804Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 64631","timestamp":"2018-05-12T23:22:31.810Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:22:31.873Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:23:27.809Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:23:27.824Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:23:27.825Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:23:27.825Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:23:27.825Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:23:27.826Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 64699","timestamp":"2018-05-12T23:23:27.832Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:23:27.897Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:25:30.297Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:25:30.311Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:25:30.312Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:25:30.312Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:25:30.312Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:25:30.313Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 64772","timestamp":"2018-05-12T23:25:30.319Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:25:30.384Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:27:34.493Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:27:34.505Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:27:34.505Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:27:34.506Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:27:34.506Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:27:34.507Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 64853","timestamp":"2018-05-12T23:27:34.512Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:27:34.577Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:52:21.573Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:52:21.588Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:52:21.588Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:52:21.588Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:52:21.589Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:52:21.590Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 67359","timestamp":"2018-05-12T23:52:21.596Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:52:21.765Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-12T23:52:59.454Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-12T23:52:59.467Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-12T23:52:59.467Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-12T23:52:59.467Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-12T23:52:59.468Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-12T23:52:59.468Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 67427","timestamp":"2018-05-12T23:52:59.473Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-12T23:52:59.530Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:10:32.718Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:10:32.729Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:10:32.730Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:10:32.730Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:10:32.731Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:10:32.732Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 68449","timestamp":"2018-05-13T00:10:32.738Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-13T00:10:32.888Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:18:38.748Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:18:38.761Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:18:38.761Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:18:38.761Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:18:38.761Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:18:38.762Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 69019","timestamp":"2018-05-13T00:18:38.769Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-13T00:18:38.825Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:25:24.808Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:25:24.820Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:25:24.820Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:25:24.820Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:25:24.820Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:25:24.821Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 69188","timestamp":"2018-05-13T00:25:24.827Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-13T00:25:24.889Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:29:12.336Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:29:12.348Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:29:12.349Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:29:12.349Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:29:12.349Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:29:12.350Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 69458","timestamp":"2018-05-13T00:29:12.356Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-13T00:29:12.393Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:30:04.272Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:30:04.284Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:30:04.285Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:30:04.285Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:30:04.285Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u this.cliPath demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:30:04.286Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 69766","timestamp":"2018-05-13T00:30:04.292Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-13T00:30:04.328Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:30:13.991Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:30:14.004Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:30:14.005Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:30:14.005Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:30:14.005Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:30:14.006Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 69828","timestamp":"2018-05-13T00:30:14.013Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-13T00:30:14.075Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:31:01.828Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:31:01.840Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:31:01.840Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:31:01.840Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:31:01.840Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:31:01.841Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 69953","timestamp":"2018-05-13T00:31:01.848Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T00:31:02.395Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T00:31:02.397Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:46:56.864Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:46:56.877Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:46:56.877Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:46:56.877Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:46:56.877Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon -u /usr/local/bin/yowsup-cli demos --debug --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:46:56.879Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 71389","timestamp":"2018-05-13T00:46:56.890Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-13T00:46:56.945Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T00:57:07.002Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T00:57:07.016Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T00:57:07.016Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T00:57:07.016Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T00:57:07.016Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T00:57:07.017Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72078","timestamp":"2018-05-13T00:57:07.026Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T00:57:07.571Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T00:57:07.573Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:00:05.655Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:00:05.671Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:00:05.671Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:00:05.674Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:00:05.674Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:00:05.675Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:00:05.676Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72161","timestamp":"2018-05-13T01:00:05.686Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:00:06.279Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:00:16.663Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:00:16.676Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:00:16.677Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:00:16.677Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:00:16.677Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:00:16.677Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:00:16.678Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72282","timestamp":"2018-05-13T01:00:16.684Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:00:17.259Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:00:17.261Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:04:44.881Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:04:44.895Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:04:44.896Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:04:44.896Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:04:44.896Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:04:44.896Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:04:44.897Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72378","timestamp":"2018-05-13T01:04:44.904Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:04:45.474Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:04:45.475Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:04:45.475Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:04:45.478Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:04:46.164Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:04:46.166Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:04:46.168Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:06:35.676Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:06:35.687Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:06:35.688Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:06:35.688Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:06:35.688Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:06:35.689Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:06:35.690Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72452","timestamp":"2018-05-13T01:06:35.696Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:06:36.275Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:06:36.275Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:06:36.276Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:06:36.279Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:06:37.083Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:06:37.085Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:06:37.087Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:11:47.751Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:11:47.765Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:11:47.765Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:11:47.766Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:11:47.766Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:11:47.766Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:11:47.767Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72547","timestamp":"2018-05-13T01:11:47.775Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:11:48.364Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:11:48.365Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:11:48.365Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:11:48.366Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:11:48.369Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:11:49.051Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:11:49.053Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:11:49.055Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:14:52.311Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:14:52.324Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:14:52.325Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:14:52.325Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:14:52.325Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:14:52.325Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:14:52.326Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72688","timestamp":"2018-05-13T01:14:52.336Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:14:52.902Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:14:52.903Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:14:52.903Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:14:52.904Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:14:52.907Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:14:53.586Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:14:53.588Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:14:53.590Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:15:06.777Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:15:06.790Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:15:06.790Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:15:06.791Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:15:06.791Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:15:06.791Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:15:06.792Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72751","timestamp":"2018-05-13T01:15:06.800Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:15:07.371Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:15:07.371Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:15:29.792Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:15:29.805Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:15:29.806Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:15:29.806Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:15:29.806Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:15:29.806Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:15:29.807Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72814","timestamp":"2018-05-13T01:15:29.814Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:15:30.415Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:15:30.416Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:15:30.416Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:15:30.417Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:15:30.420Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:15:31.141Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:15:31.143Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:15:31.145Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:16:34.052Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:16:34.065Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:16:34.065Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:16:34.065Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:16:34.065Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:16:34.065Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:16:34.066Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 72881","timestamp":"2018-05-13T01:16:34.074Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:16:34.647Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:16:34.647Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:16:34.648Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:16:34.648Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:16:34.652Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:16:35.336Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:16:35.338Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:16:35.340Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:20:54.680Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:20:54.692Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:20:54.693Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:20:54.693Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:20:54.693Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:20:54.693Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:20:54.694Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 73034","timestamp":"2018-05-13T01:20:54.703Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:20:55.303Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:20:55.303Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:20:55.304Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:20:55.304Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:20:55.307Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:20:56.008Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:20:56.010Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:20:56.013Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:21:26.168Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:21:26.182Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:21:26.182Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:21:26.183Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:21:26.183Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:21:26.183Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:21:26.184Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 73157","timestamp":"2018-05-13T01:21:26.193Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:21:26.784Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:21:26.784Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:21:26.785Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:21:26.785Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:21:26.790Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:21:27.468Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:21:27.470Z"}
+{"level":"debug","message":"[YowJS::send] Getter for API was called","timestamp":"2018-05-13T01:21:27.472Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:21:27.473Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:24:41.049Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:24:41.064Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:24:41.065Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:24:41.065Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:24:41.065Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:24:41.065Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:24:41.066Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 73239","timestamp":"2018-05-13T01:24:41.079Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:24:41.640Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:24:41.640Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:24:41.641Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:24:41.641Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:24:41.644Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:24:42.324Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:24:42.327Z"}
+{"level":"debug","message":"[YowJS::send] Getter for API was called","timestamp":"2018-05-13T01:24:42.329Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5563574420 \"hola\"\n","timestamp":"2018-05-13T01:24:42.329Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:24:42.330Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Notification: Notification\nFrom: 5215582910201-1520221376@g.us\nType: w:gp2\nParticipant: 5215582910201@s.whatsapp.net\n\n[connected]:\n[connected]:","timestamp":"2018-05-13T01:24:42.333Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Notification: Notification\nFrom: 5215582910201-1520221376@g.us\nType: w:gp2\nParticipant: 5215582910201@s.whatsapp.net\n\n[connected]:\n[connected]:","timestamp":"2018-05-13T01:24:42.333Z"}
+{"level":"debug","message":"[YowJS::send] Getter for API was called","timestamp":"2018-05-13T01:24:42.334Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5563574420 \"hola\"\n","timestamp":"2018-05-13T01:24:42.334Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:24:42.336Z"}
+{"level":"debug","message":"[Runtime::onClose] PROCESS CLOSED, Firing event.","timestamp":"2018-05-13T01:24:47.576Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:31:05.845Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:31:05.858Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:31:05.859Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:31:05.859Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:31:05.859Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:31:05.859Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:31:05.861Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 73469","timestamp":"2018-05-13T01:31:05.870Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:31:06.430Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:31:06.431Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:31:06.431Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:31:06.432Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:31:06.434Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:31:07.138Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:31:07.140Z"}
+{"level":"debug","message":"[YowJS::send] Getter for API was called","timestamp":"2018-05-13T01:31:07.142Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"hola\"\n","timestamp":"2018-05-13T01:31:07.142Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:31:07.143Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:31:07.150Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:41:22.468Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:41:22.480Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:41:22.481Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:41:22.481Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:41:22.481Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:41:22.481Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:41:22.483Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 73673","timestamp":"2018-05-13T01:41:22.491Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:41:23.032Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:41:23.032Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:41:23.033Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:41:23.033Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:41:23.036Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:41:23.737Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:41:34.733Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:41:34.746Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:41:34.747Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:41:34.747Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:41:34.747Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:41:34.747Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:41:34.748Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 73794","timestamp":"2018-05-13T01:41:34.754Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:41:35.326Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:41:35.326Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:41:35.327Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:41:35.327Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:41:35.330Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:[connected]:","timestamp":"2018-05-13T01:41:36.011Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:[connected]:","timestamp":"2018-05-13T01:41:36.013Z"}
+{"level":"debug","message":"[YowJS::send] Getter for API was called","timestamp":"2018-05-13T01:41:36.015Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"hola\"\n","timestamp":"2018-05-13T01:41:36.015Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:41:36.083Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:44:26.753Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:44:26.767Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:44:26.768Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:44:26.768Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:44:26.768Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:44:26.769Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:44:26.770Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 73939","timestamp":"2018-05-13T01:44:26.776Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:44:27.344Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:44:27.344Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:44:27.344Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:44:27.345Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:44:27.348Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:44:28.026Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:44:28.028Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:44:28.030Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:45:27.490Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:45:27.501Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:45:27.502Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:45:27.502Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:45:27.502Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:45:27.502Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:45:27.503Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 74006","timestamp":"2018-05-13T01:45:27.510Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:45:28.066Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Is offline.","timestamp":"2018-05-13T01:45:28.067Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:45:28.067Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:45:28.067Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:45:28.071Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:45:28.749Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:45:28.751Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.753Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.754Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.762Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.762Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.768Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.768Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.774Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.775Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.784Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.785Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.791Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.792Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.799Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.799Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.805Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.805Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.811Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.811Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.817Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.817Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.824Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.824Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.832Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.833Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.839Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.840Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.845Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.845Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.851Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.852Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.857Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.857Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.863Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.863Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.869Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.869Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:45:28.875Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:45:28.875Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Sent: 1526175928-1\n[connected]:\n\nSent: 1526175928-2\n[connected]:\n\nSent: 1526175928-3\n[connected]:\n\nSent: 1526175928-4\n[connected]:\n[connected]:","timestamp":"2018-05-13T01:45:28.887Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Sent: 1526175928-1\n[connected]:\n\nSent: 1526175928-2\n[connected]:\n\nSent: 1526175928-3\n[connected]:\n\nSent: 1526175928-4\n[connected]:\n[connected]:","timestamp":"2018-05-13T01:45:28.888Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:57:12.501Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:57:12.514Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:57:12.514Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:57:12.514Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:57:12.514Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:57:12.515Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:57:12.515Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 74269","timestamp":"2018-05-13T01:57:12.526Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:57:13.069Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:57:13.071Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [offline]:","timestamp":"2018-05-13T01:57:13.074Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:57:13.074Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:57:13.075Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:57:13.077Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:57:13.763Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:57:13.764Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.765Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.766Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.781Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.782Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.787Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.787Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.795Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.796Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.802Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.802Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.807Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.808Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.816Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.817Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.822Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.822Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.829Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.829Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.834Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.835Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.843Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.844Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.850Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.851Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.856Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.856Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.862Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.862Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.868Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.869Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.875Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.875Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.880Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.881Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.886Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.886Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.895Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.895Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.901Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.901Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.907Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.907Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.915Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.915Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.920Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.920Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:13.927Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /message send 5215563574420 \"Conectado\"\n","timestamp":"2018-05-13T01:57:13.927Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Sent: 1526176633-1\n[connected]:\n\nSent: 1526176633-2\n[connected]:\n[connected]:","timestamp":"2018-05-13T01:57:13.935Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Sent: 1526176633-1\n[connected]:\n\nSent: 1526176633-2\n[connected]:\n[connected]:","timestamp":"2018-05-13T01:57:13.935Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:57:41.587Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:57:41.600Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:57:41.600Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:57:41.600Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:57:41.600Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:57:41.601Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:57:41.602Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 74392","timestamp":"2018-05-13T01:57:41.608Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:57:42.148Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:57:42.150Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [offline]:","timestamp":"2018-05-13T01:57:42.152Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:57:42.153Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:57:42.153Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:57:42.157Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:57:42.872Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:57:42.873Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:57:42.873Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:58:08.293Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:58:08.304Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:58:08.305Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:58:08.305Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:58:08.305Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:58:08.305Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:58:08.306Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 74457","timestamp":"2018-05-13T01:58:08.312Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:58:08.858Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:58:08.860Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:58:36.424Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:58:36.436Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:58:36.436Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:58:36.436Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:58:36.437Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:58:36.437Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:58:36.438Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 74580","timestamp":"2018-05-13T01:58:36.444Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:58:37.014Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:58:37.017Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [offline]:","timestamp":"2018-05-13T01:58:40.020Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:58:40.020Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:58:40.021Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:58:40.022Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:58:40.270Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:58:40.271Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:58:40.272Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:59:28.379Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T01:59:28.391Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T01:59:28.392Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T01:59:28.392Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T01:59:28.392Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T01:59:28.392Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T01:59:28.393Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 74646","timestamp":"2018-05-13T01:59:28.399Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:59:28.941Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T01:59:28.944Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [offline]:","timestamp":"2018-05-13T01:59:31.943Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T01:59:31.944Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T01:59:31.944Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T01:59:31.945Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:59:32.301Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T01:59:32.302Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:32.303Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:35.944Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:38.944Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:39.306Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:39.306Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:42.944Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:45.950Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:46.311Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T01:59:46.312Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T02:00:05.499Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T02:00:05.511Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T02:00:05.512Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T02:00:05.512Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T02:00:05.512Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T02:00:05.512Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T02:00:05.513Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 74711","timestamp":"2018-05-13T02:00:05.519Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T02:00:06.085Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T02:00:06.088Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [offline]:[offline]:","timestamp":"2018-05-13T02:00:09.088Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived [offline]:[offline]:","timestamp":"2018-05-13T02:00:09.089Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [offline]:","timestamp":"2018-05-13T02:00:12.091Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T02:00:12.091Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T02:00:12.092Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T02:00:12.093Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T02:00:12.449Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T02:00:12.450Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:12.450Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:15.096Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:[connected]:","timestamp":"2018-05-13T02:00:15.452Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived [connected]:[connected]:","timestamp":"2018-05-13T02:00:15.452Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:18.101Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:18.455Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived CHATSTATE:\nState: composing\nFrom: 5215563574420@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:00:21.106Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived CHATSTATE:\nState: composing\nFrom: 5215563574420@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:00:21.107Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:21.459Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived CHATSTATE:\nState: paused\nFrom: 5215563574420@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:00:24.109Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived CHATSTATE:\nState: paused\nFrom: 5215563574420@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:00:24.110Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:24.462Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:27.112Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:27.468Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:30.118Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:30.471Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:33.124Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:33.473Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:36.125Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:36.479Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:39.128Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:39.483Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:42.130Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:42.488Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:45.131Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:45.491Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:48.132Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:48.495Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:51.139Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:51.498Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:54.139Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:54.502Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:57.141Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:00:57.506Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:00.148Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:00.512Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Iq:\nID: 1\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:01:03.151Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Iq:\nID: 1\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:01:03.151Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:03.513Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:06.153Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:06.518Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:09.159Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:09.521Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:12.165Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:12.524Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:15.171Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:15.525Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:18.174Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:18.531Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:21.180Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:21.532Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:24.180Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:24.536Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:27.182Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:27.542Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:30.188Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:30.544Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:33.194Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:33.550Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:36.197Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:36.555Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:39.200Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:39.556Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:42.206Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:42.562Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:45.209Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:45.563Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:48.214Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:48.568Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:51.217Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:51.573Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Iq:\nID: 2\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:01:54.221Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Iq:\nID: 2\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:01:54.221Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:54.580Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:57.228Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:01:57.586Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:00.233Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:00.589Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:03.233Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:03.592Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:06.236Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:06.598Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:09.238Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:09.601Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:12.244Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:12.604Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:15.248Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:15.610Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:18.252Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:18.613Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:21.258Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:21.617Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:24.264Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:24.622Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:27.269Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:27.625Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:30.275Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:30.625Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:33.278Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:33.626Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:36.280Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:36.631Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:39.283Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:39.637Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:42.289Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:42.639Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Iq:\nID: 3\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:02:45.295Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Iq:\nID: 3\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:02:45.295Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:45.642Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:48.301Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:48.647Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:51.304Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:51.651Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:54.309Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:54.651Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:57.313Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:02:57.653Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:00.316Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:00.658Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:03.318Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:03.665Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:06.322Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:06.665Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:09.325Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:09.669Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:12.326Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:12.674Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:15.327Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:15.676Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:18.332Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:18.677Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:21.338Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:21.678Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:24.339Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:24.684Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:27.344Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:27.689Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:30.350Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:30.691Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived Iq:\nID: 4\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:03:33.357Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Iq:\nID: 4\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:03:33.357Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:33.696Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:36.361Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:36.701Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:39.364Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:39.705Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:42.370Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:42.711Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:45.372Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:45.714Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [5215563574420@s.whatsapp.net(12-05-2018 21:03)]:[DD84F7743D72C4E56FE6E77A7EB9E097]\t Hola\nMessage DD84F7743D72C4E56FE6E77A7EB9E097: Sent delivered receipt and Read\n[connected]:\n[connected]:","timestamp":"2018-05-13T02:03:48.375Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived [5215563574420@s.whatsapp.net(12-05-2018 21:03)]:[DD84F7743D72C4E56FE6E77A7EB9E097]\t Hola\nMessage DD84F7743D72C4E56FE6E77A7EB9E097: Sent delivered receipt and Read\n[connected]:\n[connected]:","timestamp":"2018-05-13T02:03:48.377Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:48.714Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:51.380Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:51.720Z"}
+{"level":"silly","message":"[Runtime::_onReceive::entry] Raw Message arrived [connected]:","timestamp":"2018-05-13T02:03:54.384Z"}
+{"level":"silly","message":"[Runtime::Constructor] Initialized Constructor","timestamp":"2018-05-13T02:04:17.596Z"}
+{"level":"debug","message":"[Runtime::setCredentials] Setter for Credentials [Arguments] {\n  '0': '52',\n  '1': '15582910201',\n  '2': 'jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=' }","timestamp":"2018-05-13T02:04:17.607Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE","timestamp":"2018-05-13T02:04:17.608Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed ON_MESSAGE_ANY","timestamp":"2018-05-13T02:04:17.608Z"}
+{"level":"silly","message":"[YowJS::on] Event subscribed LINK_DEAD","timestamp":"2018-05-13T02:04:17.608Z"}
+{"level":"debug","message":"[YowJS::connect] Running runtime Python wrapper...","timestamp":"2018-05-13T02:04:17.608Z"}
+{"cwd":"/Users/montoya/Documents/GitHub/whatsapp-node/node_modules/yowjs/src/yowsup","level":"info","message":"[Runtime::run] Executing Python Yowsup2-cli deamon demos -E s40 --yowsup --login 5215582910201:jIHk4QiL0gH7Ah9Xpc4GFOfR+IM=","timestamp":"2018-05-13T02:04:17.609Z"}
+{"level":"info","message":"[Runtime::run] Spawn new process of Python, PID: 74857","timestamp":"2018-05-13T02:04:17.616Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived yowsup-cli  v2.0.15\nyowsup      v2.5.7\n\nCopyright (c) 2012-2016 Tarek Galal\nhttp://www.openwhatsapp.org\n\nThis software is provided free of charge. Copying and redistribution is\nencouraged.\n\nIf you appreciate this software and you would like to support future\ndevelopment please consider donating:\nhttp://openwhatsapp.org/yowsup/donate\n\n\nYowsup Cli client\n==================\nType /help for available commands\n\n[offline]:","timestamp":"2018-05-13T02:04:18.190Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived [offline]:[offline]:","timestamp":"2018-05-13T02:04:21.195Z"}
+{"level":"silly","message":"[API::Constructor] Initialized Constructor","timestamp":"2018-05-13T02:04:24.196Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /L\n","timestamp":"2018-05-13T02:04:24.197Z"}
+{"level":"info","message":"[YowsupRuntime::send] Sending API call to service /presence available\n","timestamp":"2018-05-13T02:04:24.199Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Auth: Logged in!\n[connected]:","timestamp":"2018-05-13T02:04:24.539Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived CHATSTATE:\nState: composing\nFrom: 5215563574420@s.whatsapp.net\n\n[5215563574420@s.whatsapp.net(12-05-2018 21:04)]:[A64D99E56350E21A37FF30B0175A2861]\t 7\nMessage A64D99E56350E21A37FF30B0175A2861: Sent delivered receipt and Read\n[connected]:\n[connected]:","timestamp":"2018-05-13T02:04:36.208Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived [connected]:[connected]:","timestamp":"2018-05-13T02:04:51.576Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived CHATSTATE:\nState: composing\nFrom: 5215563574420@s.whatsapp.net\n\n\n[5215563574420@s.whatsapp.net(12-05-2018 21:04)]:[6F1677465F8576D2C72727ACA28F4DC7]\t Hola\nMessage 6F1677465F8576D2C72727ACA28F4DC7: Sent delivered receipt and Read\n[connected]:\n[connected]:","timestamp":"2018-05-13T02:05:00.233Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived CHATSTATE:\nState: composing\nFrom: 5215563574420@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:05:03.236Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived [5215563574420@s.whatsapp.net(12-05-2018 21:05)]:[FB18BF834B3A539CEDF8D1C52A87A513]\t Jeje\nMessage FB18BF834B3A539CEDF8D1C52A87A513: Sent delivered receipt and Read\n[connected]:\n[connected]:","timestamp":"2018-05-13T02:05:03.594Z"}
+{"level":"debug","message":"[Runtime::_onReceive::default] Raw Message arrived Iq:\nID: 1\nType: result\nfrom: 5215582910201@s.whatsapp.net\n\n[connected]:","timestamp":"2018-05-13T02:05:15.254Z"}
